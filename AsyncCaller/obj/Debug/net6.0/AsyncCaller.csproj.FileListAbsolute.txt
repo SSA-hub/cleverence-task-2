@@ -1,0 +1,12 @@
+C:\Users\79188\Desktop\Задания\cleverence task\Task2\AsyncCaller\bin\Debug\net6.0\AsyncCaller.deps.json
+C:\Users\79188\Desktop\Задания\cleverence task\Task2\AsyncCaller\bin\Debug\net6.0\AsyncCaller.dll
+C:\Users\79188\Desktop\Задания\cleverence task\Task2\AsyncCaller\bin\Debug\net6.0\AsyncCaller.pdb
+C:\Users\79188\Desktop\Задания\cleverence task\Task2\AsyncCaller\obj\Debug\net6.0\AsyncCaller.csproj.AssemblyReference.cache
+C:\Users\79188\Desktop\Задания\cleverence task\Task2\AsyncCaller\obj\Debug\net6.0\AsyncCaller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79188\Desktop\Задания\cleverence task\Task2\AsyncCaller\obj\Debug\net6.0\AsyncCaller.AssemblyInfoInputs.cache
+C:\Users\79188\Desktop\Задания\cleverence task\Task2\AsyncCaller\obj\Debug\net6.0\AsyncCaller.AssemblyInfo.cs
+C:\Users\79188\Desktop\Задания\cleverence task\Task2\AsyncCaller\obj\Debug\net6.0\AsyncCaller.csproj.CoreCompileInputs.cache
+C:\Users\79188\Desktop\Задания\cleverence task\Task2\AsyncCaller\obj\Debug\net6.0\AsyncCaller.dll
+C:\Users\79188\Desktop\Задания\cleverence task\Task2\AsyncCaller\obj\Debug\net6.0\refint\AsyncCaller.dll
+C:\Users\79188\Desktop\Задания\cleverence task\Task2\AsyncCaller\obj\Debug\net6.0\AsyncCaller.pdb
+C:\Users\79188\Desktop\Задания\cleverence task\Task2\AsyncCaller\obj\Debug\net6.0\ref\AsyncCaller.dll
